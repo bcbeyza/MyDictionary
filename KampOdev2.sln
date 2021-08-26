@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampOdev2", "KampOdev2\KampOdev2.csproj", "{A8951960-4EED-4081-8DBE-C5C2DFCAADB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8951960-4EED-4081-8DBE-C5C2DFCAADB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8951960-4EED-4081-8DBE-C5C2DFCAADB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8951960-4EED-4081-8DBE-C5C2DFCAADB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8951960-4EED-4081-8DBE-C5C2DFCAADB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710DDA7C-71B9-4B74-863E-E1CF9096233A}
+	EndGlobalSection
+EndGlobal
